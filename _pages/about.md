@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2025.09 - 2029.09 (expect)*, PhD., Data Science and Eduction, The University of Hong Kong, Singapore. 
+- *2025.09 - 2029.09 (Expect)*, PhD., Data Science and Education, The University of Hong Kong, Singapore. 
 - *2024.08 - 2025.06*, MSc., Data Science for Sustainability, National University of Singapore, Singapore. 
 - *2020.09 - 2024.06*, B.E., Software Engineering, Northeastern University, Shenyang, China. 
 
