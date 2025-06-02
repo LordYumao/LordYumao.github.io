@@ -44,8 +44,13 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09* Northeastern University Outstanding Bachelor's Degree Graduation Design. 
+- *2024.09* Northeastern University Outstanding Graduate Student.
+- *2023.09* Northeastern University Second-class Scholarship.
+- *2023.09* Northeastern University Outstanding League Member.
+- *2021.09* National Scholarship.
+- *2021.09* Northeastern University First-class Scholarship.
+- *2021.09* Northeastern University Outstanding Students Pioneer.
 
 # 📖 Educations
 - *2025.09 - 2029.09 (Expect)*, PhD., Data Science and Education, The University of Hong Kong, China. 
@@ -53,4 +58,4 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 - *2020.09 - 2024.06*, B.E., Software Engineering, Northeastern University, Shenyang, China. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2023.11*, Momenta, China.
