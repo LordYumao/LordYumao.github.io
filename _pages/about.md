@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Zhihan Guo (Chinese name: 郭芷含), currently a master's student majoring in Data Science for Sustainability at the National University of Singapore and doing research as an incoming PhD at [GEMLab@HKU](https://sites.google.com/site/jiognhaolin/gem-lab), supervised by Prof. [Jionghao Lin](https://sites.google.com/site/jiognhaolin/home).
+Hi! I am Zhihan Guo (Chinese name: 郭芷含), currently a master's student majoring in Data Science for Sustainability at the National University of Singapore and doing research as an incoming PhD at [GEMLab@HKU](https://sites.google.com/site/jiognhaolin/gem-lab), supervised by [Prof. Jionghao Lin](https://sites.google.com/site/jiognhaolin/home).
 
 My research primarily focuses on learning analytics, artificial intelligence in education, and natural language processing.
 
