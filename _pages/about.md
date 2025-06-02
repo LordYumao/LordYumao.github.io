@@ -61,7 +61,7 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 - *2023.09 - 2023.11*, Momenta, China.
 - *2023.05 - 2023.07*, Neusoft Corporation, China.
 
-# 🌏 Thank you for your visits
+# 🌏 Thanks for your visits
 <div style="transform: scale(0.8);">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wpWRJNEN1RMgez977UU0TIfxbtZc0YxeOANPEtJR3kY&cl=ffffff&w=a"></script>
 </div>
