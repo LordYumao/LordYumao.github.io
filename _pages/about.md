@@ -23,9 +23,9 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 I join GEM Lab as a coming PhD student. 
+- *2024.06*: &nbsp;🎉🎉 I received NEU Outstanding Graduate Student Award.
+- *2024.06*: &nbsp;🎉🎉 I received NEU Outstanding Bachelor's Degree Graduation Design. 
 
 # 📝 Publications 
 
@@ -53,7 +53,7 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 - *2021.09* Northeastern University Outstanding Students Pioneer.
 
 # 📖 Educations
-- *2025.09 - 2029.09 (Expect)*, Ph.D., Data Science and Education, The University of Hong Kong, China. 
+- *2025.09 - 2029.09 (Expect)*, Ph.D., Learning Technologies, The University of Hong Kong, China. 
 - *2024.08 - 2025.06*, MSc., Data Science for Sustainability, National University of Singapore, Singapore. 
 - *2020.09 - 2024.06*, B.E., Software Engineering, Northeastern University, Shenyang, China. 
 
