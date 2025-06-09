@@ -30,9 +30,9 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 # 📝 Publications 
 
 
-<span class='anchor' id="projects"></span>
+<span id="projects"></span>
 # 🧪 Projects
-
+coming soon.
 # 🎖 Honors and Awards
 - *2024.09* Northeastern University Outstanding Bachelor's Degree Graduation Design. 
 - *2024.09* Northeastern University Outstanding Graduate Student.
