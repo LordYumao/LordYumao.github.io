@@ -23,7 +23,7 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 I join GEM Lab as a coming PhD student. 
+- *2025.05*: &nbsp;🎉🎉 I am excited to join GEM Lab as a PhD student starting in August, 2025.
 - *2024.06*: &nbsp;🎉🎉 I received NEU Outstanding Graduate Student Award.
 - *2024.06*: &nbsp;🎉🎉 I received NEU Outstanding Bachelor's Degree Graduation Design. 
 
