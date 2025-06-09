@@ -29,6 +29,8 @@ My research primarily focuses on learning analytics, artificial intelligence in 
 
 # 📝 Publications 
 
+
+<span id="projects"></span>
 # 🧪 Projects
 
 # 🎖 Honors and Awards
