@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Zhihan Guo | Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
